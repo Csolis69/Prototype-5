@@ -2,6 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Target.cs">
     <Files>
       <File FileName="Assets/Scripts/Target.cs" Line="7" Column="8" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9c641b5e-0f72-424f-be5c-e2d72407e051" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="463e1e6a-c662-4c29-b6b2-67f8e74c6eb0" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
